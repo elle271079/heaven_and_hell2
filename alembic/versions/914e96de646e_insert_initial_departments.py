@@ -31,3 +31,4 @@ def downgrade():
     pass
     # engine = op.get_bind()
     # engine.execute("TRUNCATE department")
+

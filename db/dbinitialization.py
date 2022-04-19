@@ -10,3 +10,4 @@ if __name__ == '__main__':
 
     print("Creating fake students...")
     create_fake_students(session)
+

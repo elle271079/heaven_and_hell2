@@ -105,4 +105,3 @@ def downgrade():
     op.drop_table('students')
     op.drop_table('staff')
     op.drop_table('department')
-
